@@ -25,3 +25,5 @@ override.tf.json
 Персональные настройки:
 .terraformrc
 terraform.rc
+
+![Админ панель Zabbix](https://github.com/snprykin/homework/blob/main/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/Zabbix/screenshots/1.jpg)`
