@@ -1,6 +1,6 @@
 # devops-netology
-### Gitignore
-НЕ попадет в Git благодаря этому файлу:
+## Gitignore
+### НЕ попадет в Git благодаря этому файлу:
 
 .terraform/ - Папка
 
