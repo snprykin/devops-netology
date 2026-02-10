@@ -26,4 +26,20 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-![Админ панель Zabbix](https://github.com/snprykin/homework/blob/main/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B3/Zabbix/screenshots/1.jpg)`
+![1](https://github.com/snprykin/devops-netology/blob/main/screenshots/1.png)`
+
+![2](https://github.com/snprykin/devops-netology/blob/main/screenshots/2.png)`
+
+![3](https://github.com/snprykin/devops-netology/blob/main/screenshots/3.png)`
+
+![4](https://github.com/snprykin/devops-netology/blob/main/screenshots/4.png)`
+
+![5](https://github.com/snprykin/devops-netology/blob/main/screenshots/5.png)`
+
+![6](https://github.com/snprykin/devops-netology/blob/main/screenshots/6.png)`
+
+![7](https://github.com/snprykin/devops-netology/blob/main/screenshots/7.png)`
+
+![8](https://github.com/snprykin/devops-netology/blob/main/screenshots/8.png)`
+
+![9](https://github.com/snprykin/devops-netology/blob/main/screenshots/9.png)`
