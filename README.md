@@ -2,7 +2,8 @@
 
 ### Задание 1. Знакомимся с GitLab 
 
-GitLab  
+
+GitLab  http://158.160.208.205/root/devops-netology
 
 ![Задание 1_1](https://github.com/snprykin/devops-netology/blob/main/screenshots/1.png)
 
