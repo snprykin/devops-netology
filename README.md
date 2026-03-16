@@ -22,3 +22,28 @@ GitLab
 
 ![Задание 2_3](https://github.com/snprykin/devops-netology/blob/main/screenshots/7.png)
 
+---
+
+### Задание 3. Ветки  
+
+![Задание 3_2](https://github.com/snprykin/devops-netology/blob/main/screenshots/8.png)
+
+![Задание 3_3](https://github.com/snprykin/devops-netology/blob/main/screenshots/9.png)
+
+![Задание 3_4](https://github.com/snprykin/devops-netology/blob/main/screenshots/10.png)
+
+![Задание 3_5](https://github.com/snprykin/devops-netology/blob/main/screenshots/11.png)
+
+![Задание 3_6](https://github.com/snprykin/devops-netology/blob/main/screenshots/12.png)
+
+![Задание 3_7](https://github.com/snprykin/devops-netology/blob/main/screenshots/13.png)
+
+---
+
+### Задание 4. Упрощаем себе жизнь  
+
+![Задание 3_7](https://github.com/snprykin/devops-netology/blob/main/screenshots/13.png)
+
+![Задание 3_7](https://github.com/snprykin/devops-netology/blob/main/screenshots/13.png)
+
+![Задание 3_7](https://github.com/snprykin/devops-netology/blob/main/screenshots/13.png)
